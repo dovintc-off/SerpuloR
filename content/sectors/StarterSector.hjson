@@ -3,7 +3,7 @@ difficulty: 1
 
 captureWave: 10
 
-sector: 0
+sector: 20
 map: cathosusStarterSector
 
 alwaysUnlocked: true

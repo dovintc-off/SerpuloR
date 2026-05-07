@@ -29,6 +29,7 @@ Please respect the intellectual property rights of both the original game develo
 | **Translator** | [Dovintc](https://github.com/dovintc-off), [nclr](https://github.com/nclr-111) |
 | **Original Artist** | [Anuke](https://github.com/Anuken) (Mindustry Base Assets) |
 | **Asset Editor** | [Dovintc](https://github.com/dovintc-off) |
+| **Mapper** | [nclr](https://github.com/nclr-111) |
 
 ## License
 

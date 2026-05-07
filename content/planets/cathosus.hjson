@@ -1,0 +1,48 @@
+type: Planet
+localizedName: Cathosus
+description: .
+
+accessible: true
+generator: SerpuloPlanetGenerator
+startSector: 0
+alwaysUnlocked: true
+
+# Размер сетки секторов (чем больше, тем больше точек на планете)
+sectorSize: 1
+# Сложность генерации ландшафта
+mesh: [
+  {
+    type: NoiseMesh
+    planet: iron
+    seed: 69
+    divisions: 2
+    radius: 1
+    color1: 5f61c6
+    color2: 5f61c6
+    octaves: 3
+    persistence: 0.5
+    scale: 1
+    mag: 0.5
+  }
+]
+# Важно для отображения секторов
+sectorSeed: 1
+allowLaunchToNumbered: false
+
+startingItems: [
+  iron/500
+]
+
+# parent: sun - Планета вращается вокруг главного солнца.
+parent: sun
+# orbitRadius: Расстояние от солнца.
+orbitRadius: 30
+# radius: Визуальный размер планеты на карте.
+radius: 1
+
+research: {
+  requirements: [
+    copper/5000
+    lead/5000
+  ]
+}

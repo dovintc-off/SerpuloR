@@ -1,0 +1,8 @@
+name: SerpuloR
+displayName: SerpuloR
+description: "
+Reworks Serpulo's sectors and mechanics (not all of Serpulos mechanics), including extra sectors, remade sectors, and difficulty changes.
+"
+author: Dov1ntc & nclr 
+version: 1
+minGameVersion: 157

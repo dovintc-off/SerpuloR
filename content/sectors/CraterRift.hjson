@@ -1,0 +1,16 @@
+planet: cathosus
+difficulty: 2
+captureWave: 20
+
+sector: 2
+map: cathosusCraterRaft
+
+research: {
+  parent: FrozenForest
+  objectives: [
+    {
+      type: SectorComplete
+      preset: FrozenForest
+    }
+  ]
+}

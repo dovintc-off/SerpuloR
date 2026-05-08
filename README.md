@@ -1,8 +1,7 @@
 # SerpuloR (Serpulo Reworked)
 
-A comprehensive rework mod for **Mindustry** (v157+).
-
-> **Note:** The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc.
+> **Note:** This mode is unfinished! Current ready sectors: 5  Sectors which are in WIP: 1.
+The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc.
 
 A comprehensive rework mod for **Mindustry** (v157+), enhancing gameplay mechanics and visual aesthetics while maintaining the core experience.
 
@@ -17,6 +16,7 @@ Please respect the intellectual property rights of both the original game develo
 ## Features
 
 - **Gameplay Reworks:** Enhanced mechanics without introducing entirely new content types.
+
 - **Custom Planet:** Includes "Cathosus," a new planet with unique sectors and challenges.
 -  **Visual Improvements:** Refined textures and UI elements.
 

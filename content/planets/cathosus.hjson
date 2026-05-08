@@ -1,0 +1,49 @@
+type: Planet
+accessible: true
+generator: SerpuloPlanetGenerator
+parent: serpulo
+radius: 0.5
+orbitRadius: 10 
+
+camRadius: 0.2
+
+minZoom: 1.0
+
+startSector: 20
+alwaysUnlocked: true
+sectorSize: 2
+sectorSeed: 1
+allowLaunchToNumbered: false
+allowLaunchSchematics: true
+allowLaunchLoadout: true
+
+mesh: [
+  {
+    type: NoiseMesh
+    planet: serpulor-cathosus 
+    seed: 69
+    divisions: 6
+    radius: 0.5
+    color1: 5f61c6
+    color2: 8e91ff
+    octaves: 3
+    persistence: 0.5
+    scale: 1
+    mag: 0.5
+  }
+]
+
+cloudMesh: [
+  {
+    type: HexSkyMesh
+    planet: serpulor-cathosus 
+    speed: 1.2
+    radius: 0.08 
+    divisions: 6
+    color: ffffff44
+    octaves: 3
+    persistence: 0.3
+    scl: 1.6 
+    thresh: 0.45 
+  }
+]

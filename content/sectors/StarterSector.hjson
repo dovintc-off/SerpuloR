@@ -9,3 +9,7 @@ map: cathosusStarterSector
 alwaysUnlocked: true
 
 threat: 0
+
+research: {
+  parent: serpulor-core-shard-cathosus
+}

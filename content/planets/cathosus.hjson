@@ -3,7 +3,7 @@ accessible: true
 generator: SerpuloPlanetGenerator
 parent: serpulo
 radius: 0.5
-orbitRadius: 10 
+orbitRadius: 6
 
 camRadius: 0.2
 
@@ -16,6 +16,9 @@ sectorSeed: 1
 allowLaunchToNumbered: false
 allowLaunchSchematics: true
 allowLaunchLoadout: true
+
+itemCapacityMultiplier: 1
+allowLaunchSchematics: true
 
 mesh: [
   {
@@ -32,6 +35,8 @@ mesh: [
     mag: 0.5
   }
 ]
+
+iconColor: 5f61c6
 
 cloudMesh: [
   {

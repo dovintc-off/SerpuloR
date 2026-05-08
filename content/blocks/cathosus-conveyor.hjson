@@ -1,0 +1,22 @@
+type: Conveyor
+
+speed: 0.03
+displayedSpeed: 4.2
+
+health: 45
+
+requirements: [
+  copper/1
+]
+
+drawer: {
+  type: DrawConveyor
+}
+
+research: {
+  parent: serpulor-core-shard-cathosus
+  planet: serpulor-cathosus
+  requirements: [
+    copper/10
+  ]
+}

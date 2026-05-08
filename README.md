@@ -1,6 +1,5 @@
 # SerpuloR (Serpulo Reworked)
 
-A comprehensive rework mod for **Mindustry** (v157+).
 
 > **Note:** This mode is unfinished! Current ready sectors: 5  Sectors which are in WIP: 1
 The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc.

@@ -15,7 +15,7 @@ Please respect the intellectual property rights of both the original game develo
 
 ## Features
 
-- **Gameplay Reworks:** Some of the structures statistics were rebalanced to keep gameplay stable
+- **Gameplay Reworks:** Some of the structures statistics were rebalanced to keep the gameplay stable
 - **Custom Planet:** Includes "Alterra", a new planet with remade Serpulo sectors, changed wave structure and difficulty.
 
 ## Credits

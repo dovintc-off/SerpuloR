@@ -23,7 +23,7 @@ allowLaunchSchematics: true
 mesh: [
   {
     type: NoiseMesh
-    planet: serpulor-cathosus 
+    planet: serpulor-alterra 
     seed: 69
     divisions: 6
     radius: 0.5
@@ -41,7 +41,7 @@ iconColor: 5f61c6
 cloudMesh: [
   {
     type: HexSkyMesh
-    planet: serpulor-cathosus 
+    planet: serpulor-alterra 
     speed: 1.2
     radius: 0.08 
     divisions: 6

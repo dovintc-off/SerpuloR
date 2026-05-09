@@ -1,0 +1,28 @@
+size: 2
+buildComplexity: 0.1 
+requirements: [
+  copper/12
+]
+
+liquidCapacity: 30
+
+itemCapacity: 10
+type: Drill
+tier: 2 
+drillTime: 600
+
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.05
+    booster: true
+    optional: true
+  }
+}
+liquidBoostIntensity: 2.56
+
+research: core-shard-alterra
+
+researchCost: [
+  copper/10
+]

@@ -16,7 +16,7 @@ Please respect the intellectual property rights of both the original game develo
 ## Features
 
 - **Gameplay Reworks:** Enhanced mechanics without introducing entirely new content types.
-- **Custom Planet:** Includes "Cathosus," a new planet with remade Serpulo sectors, changed wave structure and difficulty.
+- **Custom Planet:** Includes "Alterra," a new planet with remade Serpulo sectors, changed wave structure and difficulty.
 
 ## Credits
 

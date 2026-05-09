@@ -1,10 +1,10 @@
-planet: cathosus
+planet: alterra
 difficulty: 1
 
 captureWave: 20
 
 sector: 1
-map: cathosusFrozenForest
+map: alterraFrozenForest
 
 research: {
   parent: StarterSector

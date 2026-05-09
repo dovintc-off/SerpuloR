@@ -16,8 +16,8 @@ teamRegion: "-team"
 unitType: alpha
 
 research: {
-  planet: serpulor-cathosus
+  planet: serpulor-alterra
   root: true
-  name: "Cathosus"
+  name: "Alterra"
   requirements: []
 }

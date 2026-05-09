@@ -1,9 +1,9 @@
-planet: cathosus
+planet: alterra
 difficulty: 2
 captureWave: 20
 
 sector: 3
-map: cathosusBiomassSynthesisFacility
+map: alterraiomassSynthesisFacility
 
 research: {
   parent: CraterRift

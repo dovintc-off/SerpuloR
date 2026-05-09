@@ -1,15 +1,15 @@
-planet: cathosus
+planet: alterra
 difficulty: 1
 
 captureWave: 10
 
 sector: 20
-map: cathosusStarterSector
+map: alterraStarterSector
 
 alwaysUnlocked: true
 
 threat: 0
 
 research: {
-  parent: serpulor-core-shard-cathosus
+  parent: serpulor-core-shard-alterra
 }

@@ -1,9 +1,9 @@
-planet: cathosus
+planet: alterra
 difficulty: 2
 captureWave: 20
 
 sector: 2
-map: cathosusCraterRaft
+map: alterraCraterRaft
 
 research: {
   parent: FrozenForest

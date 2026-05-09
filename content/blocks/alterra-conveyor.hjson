@@ -14,8 +14,8 @@ drawer: {
 }
 
 research: {
-  parent: serpulor-core-shard-cathosus
-  planet: serpulor-cathosus
+  parent: serpulor-core-shard-alterra
+  planet: serpulor-alterra
   requirements: [
     copper/10
   ]

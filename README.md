@@ -1,9 +1,9 @@
 # SerpuloR (Serpulo Reworked)
 
-> **Note:** This mode is unfinished! Current ready sectors: 7  Sectors which are in WIP: 0.
+> **Note:** This mode is unfinished! Current ready sectors: 8  Sectors which are in WIP: 1.
 The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc. Also be aware for some stuff which WONT be included in the mod: Other translations excluding Russian and English languages. 
 
-A comprehensive rework mod for **Mindustry** (v157+), enhancing gameplay mechanics and visual aesthetics while maintaining the core experience.
+A mod reworking Serpulo's campaign, sectors, lore and changes wave structure while maintaining the base experience
 
 ## Important Legal Notice
 
@@ -15,7 +15,7 @@ Please respect the intellectual property rights of both the original game develo
 
 ## Features
 
-- **Gameplay Reworks:** Enhanced mechanics without introducing entirely new content types.
+- **Gameplay Reworks:** Some of the structuresцьл statistics were rebalanced to keep gameplay stable
 - **Custom Planet:** Includes "Alterra", a new planet with remade Serpulo sectors, changed wave structure and difficulty.
 
 ## Credits

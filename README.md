@@ -1,6 +1,6 @@
 # SerpuloR (Serpulo Reworked)
 
-> **Note:** This mode is unfinished! Current ready sectors: 6  Sectors which are in WIP: 1.
+> **Note:** This mode is unfinished! Current ready sectors: 7  Sectors which are in WIP: 0.
 The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc. Also be aware for some stuff which WONT be included in the mod: Other translations excluding Russian and English languages. 
 
 A comprehensive rework mod for **Mindustry** (v157+), enhancing gameplay mechanics and visual aesthetics while maintaining the core experience.

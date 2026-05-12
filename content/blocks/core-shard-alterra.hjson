@@ -5,14 +5,14 @@ health: 2000
 itemCapacity: 2500
 unitCapModifier: 12
 unitType: alpha
+alwaysUnlocked: true
+category: effect
+buildVisibility: editorOnly
 
 requirements: [
     copper/1000,
     lead/800
 ]
-
-category: effect
-teamRegion: "-team"
 unitType: alpha
 
 research: {

@@ -1,0 +1,17 @@
+type: Router
+health: 40
+size: 1
+speed: 8
+
+requirements: [
+  copper/3
+]
+
+category: distribution
+
+research: {
+  parent: alterra-junction
+  requirements: [
+    copper/100
+  ]
+}

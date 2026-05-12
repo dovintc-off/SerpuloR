@@ -1,0 +1,19 @@
+type: Junction
+health: 30
+size: 1
+speed: 13
+capacity: 6
+
+requirements: [
+  copper/3
+]
+
+category: distribution
+
+research: {
+  parent: alterra-conveyor
+  planet: serpulor-alterra
+  requirements: [
+    copper/100
+  ]
+}

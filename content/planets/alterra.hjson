@@ -1,14 +1,10 @@
-type: Planet
 accessible: true
 generator: SerpuloPlanetGenerator
 parent: serpulo
 radius: 0.5
 orbitRadius: 6
-
 camRadius: 0.2
-
 minZoom: 1.0
-
 startSector: 20
 alwaysUnlocked: true
 sectorSize: 2
@@ -16,8 +12,6 @@ sectorSeed: 1
 allowLaunchToNumbered: false
 allowLaunchSchematics: true
 allowLaunchLoadout: true
-
-itemCapacityMultiplier: 1
 allowLaunchSchematics: true
 
 mesh: [

@@ -9,10 +9,6 @@ requirements: [
   copper/1
 ]
 
-drawer: {
-  type: DrawConveyor
-}
-
 research: {
   parent: serpulor-core-shard-alterra
   planet: serpulor-alterra

@@ -1,11 +1,10 @@
 size: 2
-buildComplexity: 0.1 
 requirements: [
   copper/12
 ]
 
 liquidCapacity: 30
-
+category: production
 itemCapacity: 10
 type: Drill
 tier: 2 

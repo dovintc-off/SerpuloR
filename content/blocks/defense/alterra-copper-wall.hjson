@@ -1,0 +1,16 @@
+type: Wall
+health: 460
+size: 1
+
+requirements: [
+  copper/9
+]
+
+category: defense
+
+research: {
+  parent: alterra-duo
+  requirements: [
+    copper/100
+  ]
+}

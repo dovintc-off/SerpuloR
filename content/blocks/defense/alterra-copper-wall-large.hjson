@@ -1,0 +1,16 @@
+type: Wall
+health: 1080
+size: 2
+
+requirements: [
+  copper/18
+]
+
+category: defense
+
+research: {
+  parent: alterra-copper-wall
+  requirements: [
+    copper/750
+  ]
+}

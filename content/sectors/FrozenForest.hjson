@@ -4,7 +4,6 @@ difficulty: 1
 captureWave: 20
 
 sector: 1
-map: alterraFrozenForest
 
 research: {
   parent: StarterSector

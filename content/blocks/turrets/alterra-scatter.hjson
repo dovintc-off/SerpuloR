@@ -1,0 +1,87 @@
+type: ItemTurret
+name: "Alterra Scatter"
+description: "Стреляет кусками свинца, металлолома или метастекла по вражеским воздушным единицам."
+health: 800
+size: 2
+
+reload: 9
+range: 220
+inaccuracy: 17
+maxAmmo: 30
+shootCone: 17
+recoil: 2
+rotateSpeed: 10
+
+targetAir: true
+targetGround: false
+
+ammoTypes: {
+  lead: {
+    type: FlakBulletType
+    speed: 4.5
+    damage: 3
+    splashDamage: 40
+    splashDamageRadius: 14.4
+    ammoMultiplier: 4
+    hitEffect: flakExplosion
+    shootEffect: shootSmall
+  }
+  metaglass: {
+    type: FlakBulletType
+    speed: 4.5
+    damage: 3
+    splashDamage: 45
+    splashDamageRadius: 20
+    ammoMultiplier: 5
+    reloadMultiplier: 0.8
+    fragBullets: 6
+    fragBullet: {
+      type: BasicBulletType
+      speed: 3
+      damage: 5
+      lifetime: 15
+      width: 5
+      height: 7
+    }
+    hitEffect: flakExplosion
+  }
+  scrap: {
+    type: FlakBulletType
+    speed: 4.5
+    damage: 3
+    splashDamage: 33
+    splashDamageRadius: 24
+    ammoMultiplier: 5
+    reloadMultiplier: 0.5
+    hitEffect: flakExplosion
+  }
+}
+
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      suffix: "-mid"
+      progress: recoil
+      moveY: -1.5
+      under: false
+      team: false
+    }
+  ]
+}
+
+requirements: [
+  copper/85
+  lead/45
+]
+
+category: turret
+
+research: {
+  parent: alterra-duo
+  requirements: [
+    copper/500
+    lead/300
+  ]
+}

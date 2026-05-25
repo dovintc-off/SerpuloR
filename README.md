@@ -30,6 +30,9 @@ Please respect the intellectual property rights of both the original game develo
 | **Asset Editor** | [Dovintc](https://github.com/dovintc-off) |
 | **Mapper** | [nclr](https://github.com/nclr-111) |
 
+## Special Thanks
+- Grushashusha
+
 ## License
 
 - **Code:** Proprietary. See [LICENSE](LICENSE) for details.

@@ -1,0 +1,5 @@
+type: OreBlock
+name: Загрязненная руда графита
+description: Жила загрязнянного графита
+itemDrop: graphite
+variants: 3

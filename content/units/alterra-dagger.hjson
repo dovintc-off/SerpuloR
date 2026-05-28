@@ -1,48 +1,34 @@
 type: mech
-name: Алтерра Кинжал
-description: Стреляет стандартными пулями по всем врагам поблизости.
-
-// Основные характеристики со скриншота
 health: 150
 armor: 0
 itemCapacity: 30
-
-// Скорость: 3.75 плиток в секунду (в коде указывается в пикселях за кадр)
-// Вычисляется как: 3.75 * 8 пикселей / 60 кадров = 0.5
 speed: 0.5
-
-// Физический размер коллизии юнита
 hitSize: 8
-
+alwaysCreateOutline: true
 weapons: [
   {
     name: alterra-dagger-weapon
+    layer: weapon
     top: false
     x: 4.5
     y: 2
-    
-    // Перезарядка: ~2.3 выстрела в секунду
-    // Вычисляется как: 60 кадров / 2.3 = 26.08 кадра
     reload: 26.08
-    
     recoil: 1
     alternate: true
     ejectEffect: casing1
-    
     bullet: {
       type: BasicBulletType
-      
-      // Урон: 9 единиц
       damage: 9
-      
-      // Радиус действия: 18.2 плиток (или 145.6 пикселей)
-      // Чтобы получить 145.6, задаем скорость 3.64 и время жизни 40 кадров
       speed: 3.64
       lifetime: 40
-      
-      // Визуальный размер пули
       width: 7
       height: 9
     }
   }
 ]
+research: {
+  parent: core-shard-alterra
+  requirements: [
+    { item: copper, amount: 1500 }
+  ]
+}

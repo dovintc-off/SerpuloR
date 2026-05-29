@@ -31,7 +31,7 @@ Please respect the intellectual property rights of both the original game develo
 | **Mapper** | [nclr](https://github.com/nclr-111) |
 
 ## Special Thanks
-- Grushashusha
+- Grushashusha, Sh1penfire
 
 ## License
 

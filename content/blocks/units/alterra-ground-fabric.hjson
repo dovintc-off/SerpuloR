@@ -1,0 +1,36 @@
+type: UnitFactory
+size: 3
+health: 350
+category: units
+
+hasItems: true
+
+requirements: [
+  { item: graphite, amount: 75 },
+  { item: lead, amount: 100 },
+  { item: copper, amount: 250}
+]
+
+research: {
+  parent: core-shard-alterra
+  requirements: [
+    { item: graphite, amount: 150 },
+    { item: lead, amount: 240 },
+    { item: copper, amount: 500}
+  ]
+}
+
+plans: [
+  {
+    unit: alterra-dagger
+    time: 1500 
+    requirements: [
+      { item: graphite, amount: 15 },
+      { item: lead, amount: 20 }
+    ]
+  }
+]
+
+consumes: {
+  power: 1.8
+}

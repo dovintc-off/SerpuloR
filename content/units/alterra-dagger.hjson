@@ -4,31 +4,30 @@ armor: 0
 itemCapacity: 30
 speed: 0.5
 hitSize: 8
-alwaysCreateOutline: true
 weapons: [
   {
     name: alterra-dagger-weapon
-    layer: weapon
     top: false
     x: 4.5
     y: 2
-    reload: 26.08
+    reload: 18.75
     recoil: 1
     alternate: true
     ejectEffect: casing1
     bullet: {
       type: BasicBulletType
-      damage: 9
+      damage: 12
       speed: 3.64
-      lifetime: 40
+      lifetime: 38.2
       width: 7
       height: 9
     }
   }
 ]
 research: {
-  parent: core-shard-alterra
+  parent: alterra-ground-fabric
   requirements: [
-    { item: copper, amount: 1500 }
+    { item: graphite, amount: 5 },
+    { item: lead, amount: 5 }
   ]
 }

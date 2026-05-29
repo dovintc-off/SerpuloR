@@ -1,6 +1,4 @@
 type: ItemTurret
-name: "Alterra Scatter"
-description: "Стреляет кусками свинца, металлолома или метастекла по вражеским воздушным единицам."
 health: 800
 size: 2
 
@@ -66,7 +64,6 @@ drawer: {
       progress: recoil
       moveY: -1.5
       under: false
-      team: false
     }
   ]
 }

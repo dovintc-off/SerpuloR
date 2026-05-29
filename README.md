@@ -35,5 +35,5 @@ Please respect the intellectual property rights of both the original game develo
 
 ## License
 
-- **Code:** Proprietary. See [LICENSE](LICENSE) for details.
-- **Assets:** Based on Mindustry assets (Copyright © Anuke). Edits Copyright © 2026 Dovintc.
+- **Code:** See [MIT LICENSE](LICENSE) for details.
+- **Assets:** Based on Mindustry assets (Copyright © Anuke). Edited Dovintc.

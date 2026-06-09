@@ -4,7 +4,7 @@
 The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc. Also be aware for some stuff which WONT be included in the mod: Other translations excluding Russian and English languages.
 #### **[Our Discord Server](https://discord.gg/C2zKU3V7fk)**
 
-A mod, which adds a planet named Alterra. It has many agressive enemy bases. Basicly this mod is Serpulo but with changed campaign, block statistics, rebalancing and adding new content.
+A mod, which adds a moon named Alterra with an agressive enemy bases in it. Most buildings are rebalanced.
 
 ## Important Legal Notice
 

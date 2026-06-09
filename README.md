@@ -2,7 +2,7 @@
 
 > **Note:** This mode is unfinished! Current ready sectors: 2  Sectors which are in WIP: 0.
 The core concept and initial design of this mod were proposed by **nclr**. This project is an independent implementation and expansion of that idea by Dov1ntc. Also be aware for some stuff which WONT be included in the mod: Other translations excluding Russian and English languages.
-#### **[Our Discord Server](https://discord.gg/C2zKU3V7fk)**
+#### **[Our Discord Server](https://discord.gg/cUpa3sReJR)**
 
 A mod, which adds a moon named Alterra with an agressive enemy bases in it. Most buildings are rebalanced.
 

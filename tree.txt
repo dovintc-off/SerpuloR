@@ -1,0 +1,135 @@
+Generated on GTF (Programm create by Dov1ntc)
+
+SerpuloR/
+├── bundles/
+│   ├── bundle.properties
+│   └── bundle_ru.properties
+├── content/
+│   ├── blocks/
+│   │   ├── defense/
+│   │   │   ├── alterra-copper-wall-large.hjson
+│   │   │   └── alterra-copper-wall.hjson
+│   │   ├── distribution/
+│   │   │   ├── alterra-conveyor.hjson
+│   │   │   ├── alterra-junction.hjson
+│   │   │   └── alterra-router.hjson
+│   │   ├── drills/
+│   │   │   └── alterra-mechanical-drill.hjson
+│   │   ├── environment/
+│   │   │   └── alterra-ore-graphite.hjson
+│   │   ├── power/
+│   │   │   ├── alterra-large-power-node.hjson
+│   │   │   ├── alterra-large-solar-panel.hjson
+│   │   │   ├── alterra-power-node.hjson
+│   │   │   └── alterra-solar-panel.hjson
+│   │   ├── production/
+│   │   │   └── alterra-graphite-press.hjson
+│   │   ├── turrets/
+│   │   │   ├── alterra-duo.hjson
+│   │   │   └── alterra-scatter.hjson
+│   │   ├── units/
+│   │   │   ├── alterra-air-fabric.hjson
+│   │   │   └── alterra-ground-fabric.hjson
+│   │   └── core-shard-alterra.hjson
+│   ├── planets/
+│   │   └── alterra.hjson
+│   ├── sectors/
+│   │   ├── BiomassSynthesisFacility.hjson
+│   │   ├── CraterRift.hjson
+│   │   ├── FrozenForest.hjson
+│   │   └── StarterSector.hjson
+│   └── units/
+│       ├── alterra-dagger.hjson
+│       └── alterra-flare.hjson
+├── maps/
+│   └── serpulor-alterra/
+│       ├── serpulor-BiomassSynthesisFacility.msav
+│       ├── serpulor-CraterRift.msav
+│       ├── serpulor-FrozenForest.msav
+│       └── serpulor-StarterSector.msav
+├── scripts/
+│   ├── main.js
+│   └── StartupWarning.js
+├── sprites/
+│   ├── blocks/
+│   │   ├── core/
+│   │   │   ├── core-shard-alterra-team-based.png
+│   │   │   ├── core-shard-alterra-team.png
+│   │   │   └── core-shard-alterra.png
+│   │   ├── defense/
+│   │   │   ├── alterra-copper-wall-large.png
+│   │   │   └── alterra-copper-wall.png
+│   │   ├── distribution/
+│   │   │   ├── conveyors/
+│   │   │   │   ├── alterra-conveyor-0-0.png
+│   │   │   │   ├── alterra-conveyor-0-1.png
+│   │   │   │   ├── alterra-conveyor-0-2.png
+│   │   │   │   ├── alterra-conveyor-0-3.png
+│   │   │   │   ├── alterra-conveyor-1-0.png
+│   │   │   │   ├── alterra-conveyor-1-1.png
+│   │   │   │   ├── alterra-conveyor-1-2.png
+│   │   │   │   ├── alterra-conveyor-1-3.png
+│   │   │   │   ├── alterra-conveyor-2-0.png
+│   │   │   │   ├── alterra-conveyor-2-1.png
+│   │   │   │   ├── alterra-conveyor-2-2.png
+│   │   │   │   ├── alterra-conveyor-2-3.png
+│   │   │   │   ├── alterra-conveyor-3-0.png
+│   │   │   │   ├── alterra-conveyor-3-1.png
+│   │   │   │   ├── alterra-conveyor-3-2.png
+│   │   │   │   ├── alterra-conveyor-3-3.png
+│   │   │   │   ├── alterra-conveyor-4-0.png
+│   │   │   │   ├── alterra-conveyor-4-1.png
+│   │   │   │   ├── alterra-conveyor-4-2.png
+│   │   │   │   └── alterra-conveyor-4-3.png
+│   │   │   ├── alterra-junction.png
+│   │   │   └── alterra-router.png
+│   │   ├── drills/
+│   │   │   └── mechanical-drill/
+│   │   │       ├── alterra-mechanical-drill-rotator.png
+│   │   │       ├── alterra-mechanical-drill-top.png
+│   │   │       └── alterra-mechanical-drill.png
+│   │   ├── environment/
+│   │   │   ├── alterra-ore-graphite1.png
+│   │   │   ├── alterra-ore-graphite2.png
+│   │   │   └── alterra-ore-graphite3.png
+│   │   ├── power/
+│   │   │   ├── alterra-large-power-node.png
+│   │   │   ├── alterra-large-solar-panel.png
+│   │   │   ├── alterra-power-node.png
+│   │   │   └── alterra-solar-panel.png
+│   │   ├── production/
+│   │   │   └── alterra-graphite-press.png
+│   │   ├── turrets/
+│   │   │   ├── duo/
+│   │   │   │   ├── alterra-duo-barrel-l.png
+│   │   │   │   ├── alterra-duo-barrel-r.png
+│   │   │   │   ├── alterra-duo-preview.png
+│   │   │   │   └── alterra-duo.png
+│   │   │   └── scatter/
+│   │   │       ├── alterra-scatter-mid.png
+│   │   │       ├── alterra-scatter-preview.png
+│   │   │       └── alterra-scatter.png
+│   │   └── units/
+│   │       ├── alterra-air-fabric.png
+│   │       ├── alterra-air-factory-out.png
+│   │       ├── alterra-air-factory-top.png
+│   │       ├── alterra-ground-fabric.png
+│   │       ├── alterra-ground-factory-out.png
+│   │       └── alterra-ground-factory-top.png
+│   ├── item/
+│   │   └── alterra-raw-graphite.png
+│   └── units/
+│       ├── dagger/
+│       │   ├── alterra-dagger-base.png
+│       │   ├── alterra-dagger-full.png
+│       │   ├── alterra-dagger-leg.png
+│       │   ├── alterra-dagger-weapon.png
+│       │   └── alterra-dagger.png
+│       └── alterra-flare.png
+├── icon.png
+├── LICENSE.md
+├── mod.hjson
+├── README.md
+├── tree.py
+├── tree.txt
+└── update.txt

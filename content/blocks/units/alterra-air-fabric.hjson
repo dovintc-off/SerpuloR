@@ -1,0 +1,36 @@
+type: UnitFactory
+size: 3
+health: 350
+category: units
+buildTime: 126.96
+hasItems: true
+
+requirements: [
+  { item: graphite, amount: 50},
+  { item: lead, amount: 90},
+  { item: copper, amount: 45}
+]
+
+research: {
+  parent: alterra-ground-fabric
+  requirements: [
+    { item: graphite, amount: 150 },
+    { item: lead, amount: 240 },
+    { item: copper, amount: 500}
+  ]
+}
+
+plans: [
+  {
+    unit: alterra-flare
+    time: 720
+    requirements: [
+      { item: graphite, amount: 10 },
+      { item: lead, amount: 5 }
+    ]
+  }
+]
+
+consumes: {
+  power: 1.2
+}

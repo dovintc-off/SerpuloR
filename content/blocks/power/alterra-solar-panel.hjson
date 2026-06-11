@@ -1,0 +1,20 @@
+type: SolarGenerator
+size: 2
+powerProduction: 0.6
+buildTime: 53.52
+health: 120
+category: power
+
+research: {
+    parent: alterra-power-node
+    requirements: [
+        {item: lead, amount: 450},
+        {item: copper, amount: 200},
+        {item: graphite, amount: 200}
+    ]
+}
+
+requirements: [
+    {item: lead, amount: 65},
+    {item: graphite, amount: 40}
+]

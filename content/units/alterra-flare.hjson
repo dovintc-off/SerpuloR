@@ -1,0 +1,64 @@
+type: flying
+flying: true
+speed: 3.25
+accel: 0.08
+drag: 0.04
+rotateSpeed: 5
+omniMovement: false
+
+health: 125
+armor: 0
+hitSize: 9
+itemCapacity: 0
+
+circleTarget: true
+circleTargetRadius: 60
+targetFlags: [generator, null]
+
+engineOffset: 5.75
+wreckSoundVolume: 0.7
+moveSound: loopThruster
+moveSoundPitchMin: 0.3
+moveSoundPitchMax: 1.5
+moveSoundVolume: 0.2
+
+weapons: [
+    {
+        name: flare-weapon-copy
+        x: 0
+        y: 1
+        mirror: false
+        
+        minShootVelocity: 2
+        shootCone: 10
+        reload: 80
+        
+        shoot: {
+            shots: 3
+            shotDelay: 3
+        }
+        
+        ejectEffect: casing1
+        
+        bullet: {
+            type: BasicBulletType
+            speed: 2.5
+            damage: 4
+            lifetime: 32
+            width: 7
+            height: 9
+            inaccuracy: 4
+            
+            shootEffect: shootSmall
+            smokeEffect: shootSmallSmoke
+            
+            ammoMultiplier: 2
+        }
+    }
+]
+
+research: {
+  parent: alterra-air-fabric
+}
+
+researchCostMultiplier: 0

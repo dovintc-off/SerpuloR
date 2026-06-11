@@ -1,0 +1,13 @@
+type: PowerNode
+name: "Crystal Relay"
+description: "A specialized power node that uses aluminum conductivity and crystal focusing to transmit energy over long distances."
+size: 1
+health: 120
+
+maxNodes: 12
+laserRange: 15
+
+laserColor1: 00f2ff
+laserColor2: FF0000FF
+
+category: power

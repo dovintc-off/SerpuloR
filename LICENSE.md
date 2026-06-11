@@ -1,11 +1,11 @@
-Copyright (c) 2026 Dov1ntc & nclr
+Copyright (c) 2026 [Dov1ntc](https://github.com/dovintc-off) & [nclr](https://github.com/nclr-111)
 
 All rights reserved.
 
 This mod is proprietary software. You are not allowed to:
 1. Copy, modify, merge, publish, distribute, sublicense, or sell copies of this mod.
 2. Reverse engineer, decompile, or disassemble the software.
-3. Use this mod's code or assets in other projects without explicit written permission from the author.
+3. Use this mod's code or assets in other projects without explicit written permission from the authors.
 
 You are only allowed to download and play this mod for personal use via official distribution channels (e.g., Steam Workshop, GitHub Releases by the author).
 

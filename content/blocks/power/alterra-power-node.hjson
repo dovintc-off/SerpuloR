@@ -1,13 +1,25 @@
 type: PowerNode
-name: "Crystal Relay"
-description: "A specialized power node that uses aluminum conductivity and crystal focusing to transmit energy over long distances."
 size: 1
 health: 120
-
-maxNodes: 12
-laserRange: 15
-
-laserColor1: 00f2ff
+buildTime: 5.16
+maxNodes: 10
+laserRange: 6
+#If Plus
+laserColor1: 00f2ff 
+#If minus
 laserColor2: FF0000FF
 
 category: power
+
+requirements: [
+    {item: copper, amount: 2},
+    {item: lead, amount: 6}
+]
+
+research: {
+    parent: alterra-mechanical-drill,
+    requirements: [
+        {item: copper, amount: 100},
+        {item: lead, amount: 200}
+    ]
+}

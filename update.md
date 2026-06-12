@@ -1,18 +1,7 @@
 @everyone 
 
-Update from July 11th
+# Update from July 13th
+## Type Update: Bug Fix; Version: 0.5.5 Beta
 
-# New blocks:
-1. Power Node
-2. Large Power Node (In development)
-3. Solar Panel
-4. Large Solar Panel (In development)
-5. Air Fabric
-
-# Units:
-1. Flare
-
-# Another Changes:
-1. Change Mod Icon
-2. Add more translations in localization files
-3. Improving the license file
+1. Fixed tech tree bug: Solar panel is now correctly attached to the power node.
+2. Completed development on: Solar Panel and Power Node
